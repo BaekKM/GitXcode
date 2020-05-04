@@ -26,6 +26,7 @@
 		BDA1572B245FDE41005CFD80 /* GitXcode */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = GitXcode; sourceTree = BUILT_PRODUCTS_DIR; };
 		BDA1572E245FDE41005CFD80 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		BDA15735245FDFC9005CFD80 /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
+		BDA15736245FE990005CFD80 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -42,6 +43,7 @@
 		BDA15722245FDE41005CFD80 = {
 			isa = PBXGroup;
 			children = (
+				BDA15736245FE990005CFD80 /* README.md */,
 				BDA15735245FDFC9005CFD80 /* .gitignore */,
 				BDA1572D245FDE41005CFD80 /* GitXcode */,
 				BDA1572C245FDE41005CFD80 /* Products */,
